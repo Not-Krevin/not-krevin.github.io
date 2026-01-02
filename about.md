@@ -26,9 +26,14 @@ There was peace in this, I still had to repeat and strengthen this prayer. I fel
 
 Everything in life is a miracle. I'm grateful to look at my life as a miracle, thank you for reading my testimony. "For everything comes from him and exists by his power and is intended for his glory. All glory to him forever! Amen." *Romans 11:36.* What I feel best expresses my path that led me to Christ is “Not only that, but we rejoice in our sufferings, knowing that suffering produces endurance,  and endurance produces character, and character produces hope, and hope does not put us to shame, because God's love has been poured into our hearts through the Holy Spirit who has been given to us.” *Romans 5:3-5*
 
+**My Fellowship:**
+   *Trinity Bible Church*
+   *South Vally Commuinty Church*
+   *West Hills Community Church*
 
 
-### My Beliefs
+
+### My Beliefs as a non-denominational Christian
 **Trinitarian doctrine** - The core Christian belief that one God exists eternally as three distinct, co-equal, co-eternal persons: *The Father (Creator)*, *The Son (Jesus Christ/Redeemer)*, and the *Holy Spirit (the Sanctifier/Guide)*
 
 **Sola Scriptura** - The core Protestant Reformation principle stating the Bible is the sole *infallible* source of religious authority for Christian faith and practice, superseding church tradition, papal decrees, or human reason for ultimate truth, meaning all doctrines must be derived from or supported by the Bible.
