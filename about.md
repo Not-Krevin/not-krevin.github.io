@@ -28,8 +28,11 @@ Everything in life is a miracle. I'm grateful to look at my life as a miracle, t
 
 **My Fellowship:**
    *Trinity Bible Church*
+   
    *South Vally Commuinty Church*
+   
    *West Hills Community Church*
+
 
 **General About**
 Currently I’m studying engineering at SJSU.
