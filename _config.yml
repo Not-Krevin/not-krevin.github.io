@@ -138,21 +138,19 @@ navbar-var-length: false
 
 # --- Colours / background image --- #
 
-page-col: "#FFFFFF"          # Clean white background
-text-col: "#222222"          # Soft charcoal black (slicker than pure black)
-link-col: "#357ABD"          # Muted sky blue (pulled from your photo)
-hover-col: "#2D5A27"         # Forest green hover (pulled from the trees)
+page-col: "#F4F7F9"         # Soft, light blue-gray (much easier on the eyes than white)
+text-col: "#2D3436"         # Dark charcoal (softer and slicker than pure black)
+link-col: "#4A69BD"         # Muted "Slate Blue"
+hover-col: "#38ADA9"        # Soft teal-blue for hovers
 
-# Navbar (Top bar) - Light and airy looks more modern
-navbar-col: "#F8F9FA"        # Very light off-white/grey
-navbar-text-col: "#222222"   # Dark text for readability
-navbar-border-col: "#EEEEEE" # Subtle border
+navbar-col: "#FFFFFF"       # Pure white navbar (makes the header look layered over the soft page)
+navbar-text-col: "#2D3436"  # Matching charcoal text
+navbar-border-col: "#E1E8ED" # Very subtle divider line
 
-# Footer (Bottom bar)
-footer-col: "#F8F9FA"        # Matches the top bar
-footer-text-col: "#777777"   # Muted grey text
-footer-link-col: "#222222"   # Dark links
-footer-hover-col: "#357ABD"  # Blue hover
+footer-col: "#F4F7F9"       # Matches the page background
+footer-text-col: "#636E72"  # Muted gray for the footer text
+footer-link-col: "#2D3436"
+footer-hover-col: "#4A69BD" 
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
