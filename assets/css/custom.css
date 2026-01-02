@@ -3,7 +3,7 @@ body {
   background-color: #f4f7f9; 
   
   /* This pulls in your fish pattern */
-  background-image: url("/assets/img/fish-pattern.png");
+  background-image: url("/assets/img/image.png");
   
   /* This makes the pattern small and subtle */
   background-size: 120px; 
