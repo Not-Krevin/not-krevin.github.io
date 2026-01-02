@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: My testimony and beliefs
+subtitle: My Testimony and Beliefs
 ---
 ### Testimony of faith - Kevin Higgins
 **1. Before Christ**
