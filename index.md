@@ -9,4 +9,4 @@ I believe that we are called to connect and support one another through faith. W
 
 > "The prayer of a righteous person is powerful and effective." — James 5:16.
 
-![Ministry Image](/assets/img/IMG_0225.jpg)
+![Image](/assets/img/IMG_0225.jpg)
