@@ -34,6 +34,8 @@ Everything in life is a miracle. I'm grateful to look at my life as a miracle, t
 
 
 ### My Beliefs as a non-denominational Christian
-**Ontological Trinitarian doctrine** -  the belief that there is one God, eternally existing in three distinct, co-equal, and co-eternal Persons: The Father, The Son, and The Holy Spirit. They are one in essence, yet distinct in their roles in the economy of salvation.
+**Ontological Trinitarian doctrine** -  the belief that there is one God, eternally existing in three distinct, co-equal, and co-eternal Persons: The Father, The Son, and The Holy Spirit. They are one in essence, yet distinct in their roles in the economy of salvation. *John 10:30*
 
-**Sola Scriptura (Scripture Alone)** - I believe the Holy Bible is the theopneustos (God-breathed) Word, is the sole *infallible* source of religious authority for Christian faith and practice, superseding church tradition, papal decrees, or human reason for ultimate truth, meaning all doctrines must be derived from or supported by the Bible.
+**Sola Scriptura (Scripture Alone)** - I believe the Holy Bible is the theopneustos (God-breathed) Word, is the sole *infallible* source of religious authority for Christian faith and practice, superseding church tradition, papal decrees, or human reason for ultimate truth, meaning all doctrines must be derived from or supported by the Bible. *2 Timothy 3:16-17*
+
+**Salvation is through grace by grace alone** - I believe we are saved by grace and grace alone. *"For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast." Ephesians 2:8-9*
