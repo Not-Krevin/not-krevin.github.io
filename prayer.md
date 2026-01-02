@@ -9,7 +9,7 @@ If you have a burden, a praise, or anything you'd like to share, please use the 
   <form action="https://formspree.io/f/xlgdbekj" method="POST">
     
     <div style="margin-bottom: 15px;">
-      <label style="display: block; font-weight: bold; margin-bottom: 5px;">Your Name:</label>
+      <label style="display: block; font-weight: bold; margin-bottom: 5px;">Your Name (optional):</label>
       <input type="text" name="name" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box;">
     </div>
 
