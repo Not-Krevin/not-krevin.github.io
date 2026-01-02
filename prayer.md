@@ -3,7 +3,7 @@ layout: page
 title: Prayer Requests
 ---
 
-If you have a burden, a praise, or anything you'd like to share, please use the form below. I set aside time daily to pray over these requests personally.
+If you have a burden, a praise, wanna connect or anything you'd like to share, please use the form below. I set aside time to pray over these requests personally.
 
 <div style="max-width: 500px; margin: 20px 0; font-family: sans-serif;">
   <form action="https://formspree.io/f/xlgdbekj" method="POST">
