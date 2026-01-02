@@ -13,11 +13,11 @@ I was lost, more than I knew. I was fighting a spirit of rage and profound exist
 
 
 **2. How I met Christ**
- Well at the start of 2024 I declared *‘This was my year!’* but I didn’t know how dark of a trail it would be. I found myself suffering continually, I felt completely and utterly hopeless. I reached the end of my own strength. I remember one night I couldn’t handle what was going on at home so I drove out into the hills and prayed for the first time in years. 
+Well at the start of 2024 I declared *‘This was my year!’* but I didn’t know how dark of a trail it would be. I found myself suffering continually, I felt completely and utterly hopeless. I reached the end of my own strength. I remember one night I couldn’t handle what was going on at home so I drove out into the hills and prayed for the first time in years. 
  
 That night I prayed to God for change, for help to lift me out of this darkness, for purpose, I asked for anything, just make a change happen. Then I got in a serious mountain biking accident although at the time it didn'f feel like it was an act of the Lords Providence. This gave me some space and time in life for once and I had a dream that made me deeply reflect about my life. It was a turning point for me, I made a "covenant" with myself to pursur the Truth. I left my old life behind and began the process of mortifying my old nature.  
 
-In October of 2024 I publicly professed my faith and got baptized at *Trinity Bible Church.* Yet, even in that step of obedience, I experienced a dark zone of my life. I moved from "trying" to "trusting." With tears in my eyes, I acknowledged God over my life. I proclaimed that regardless of my understanding of His timing, Jesus Christ was my Lord, and my life was at His mercy.
+In 2024 I publicly professed my faith and got baptized at *Trinity Bible Church.* Yet, even in that step of obedience, I experienced a dark zone of my life. I moved from "trying" to "trusting." With tears in my eyes, I acknowledged God over my life. I proclaimed that regardless of my understanding of His timing, Jesus Christ was my Lord, and my life was at His mercy.
 
 
 
