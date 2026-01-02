@@ -9,6 +9,9 @@
 # --- Required options --- #
 ############################
 
+# site url
+baseurl: "/beautiful-jekyll"
+
 # Name of website
 title: Kevin's website
 description: Christian Ministry • Prayer • Connection
