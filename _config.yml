@@ -10,7 +10,7 @@
 ############################
 
 # site url
-baseurl: "/beautiful-jekyll"
+baseurl: ""
 
 # Name of website
 title: Kevin's website
