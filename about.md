@@ -21,7 +21,7 @@ In October of 2024 I got baptized at *Trinity Bible Church.* At this time I expe
 
 
 
-**3. Life after Christ **
+**3. Life after Christ**
 There was peace in this, I still had to repeat and strengthen this prayer. I felt centered for once. Like I was in white water rapids my whole life but now I could finally feel some rocks at my feet. I could finally say my Identity was in Christ and mean it. Doors opened for me, new relationships and connection with people I knew and met. Even when times were hard I knew I had gotten through a lot of hard times before and now. All my pain, all my strife, it has meaning, God has a plan for it, he has purpose in it. *Romans 8:28.* Although it was a little over six months I’d say I won that bet with myself, I went into it just looking for a bandaid or a cover for all I had needed. I came out of it not only a new person but a person with purpose, strength, wisdom, and a new lease on life.
 
 Everything in life is a miracle. I'm grateful to look at my life as a miracle, thank you for reading my testimony. "For everything comes from him and exists by his power and is intended for his glory. All glory to him forever! Amen." *Romans 11:36.* What I feel best expresses my path that led me to Christ is “Not only that, but we rejoice in our sufferings, knowing that suffering produces endurance,  and endurance produces character, and character produces hope, and hope does not put us to shame, because God's love has been poured into our hearts through the Holy Spirit who has been given to us.” *Romans 5:3-5*
