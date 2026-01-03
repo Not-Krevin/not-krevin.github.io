@@ -27,6 +27,7 @@ In this surrender, I found Assurance, I no longer felt like I was drifting in "w
 Everything in life is a miracle. I'm grateful to look at my life as a miracle, thank you for reading my testimony. "For everything comes from him and exists by his power and is intended for his glory. All glory to him forever! Amen." *Romans 11:36.* What I feel best expresses my path that led me to Christ is “Not only that, but we rejoice in our sufferings, knowing that suffering produces endurance,  and endurance produces character, and character produces hope, and hope does not put us to shame, because God's love has been poured into our hearts through the Holy Spirit who has been given to us.” *Romans 5:3-5*
 
 **My Fellowship:**
+   
    *Trinity Bible Church*
    
    *South Vally Commuinty Church*
