@@ -34,7 +34,12 @@ Here are two videos that beautifully explain the person of Jesus and the story o
 
 #### Who is Jesus?
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; margin-top:20px;">
-  <iframe src="https://www.youtube.com/embed/3dHi2x367VM" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/watch?v=p7XRPGzL6kk" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allowfullscreen></iframe>
+</div>
+
+#### Disscussing the hard topics of Christianity, from a Athiest and Christian side.
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; margin-top:20px;">
+  <iframe src="https://www.youtube.com/watch?v=r8RZarGC8B4" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allowfullscreen></iframe>
 </div>
 
 ---
