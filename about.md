@@ -36,6 +36,11 @@ Everything in life is a miracle. I'm grateful to look at my life as a miracle, t
 
 
 
+
+
+
+
+
 **General About**
 Currently I’m studying at SJSU.
 Outside of school, I like being outdoors, camping, running, biking/motorcycles, powerlifting, and music.
