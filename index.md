@@ -3,7 +3,6 @@ layout: page
 title: Welcome
 ---
 
-### Welcome to my website
 
 I believe that we are called to connect and support one another through faith. Whether you are looking for prayer, want to read my testimony, or simply wish to talk about God together, I am glad you are here.
 
