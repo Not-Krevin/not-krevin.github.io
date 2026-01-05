@@ -4,7 +4,7 @@ title: The Good News
 subtitle: Understanding the Gospel and the character of God.
 ---
 
-### What is the Gospel? (WORK IN PROGRESS)
+### What is the Gospel? (WORK IN PROGRESS)(NOT TO BE USED)
 The word "Gospel" simply means "Good News." But to understand why the news is good, we must understand the story of the world through the lens of Scripture.
 
 #### 1. Creation & Character
