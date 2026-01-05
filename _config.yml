@@ -271,7 +271,8 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-permalink: "https://www.gty.org/sermons/archive?tab=scripture" Click me
+url: "https://www.gty.org/sermons/archive?tab=scripture"
+url pretty: Click me?
 paginate: 5
 
 kramdown:
