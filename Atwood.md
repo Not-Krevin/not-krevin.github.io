@@ -5,4 +5,4 @@ subtitle: Weird guy
 ---
 ### PUBLIC SERVICE ANNOCEMENT - BEWARE OF THIS MAN
 
-# ![Image](assets/img/IMG_8901.jpg)
+ [Image](            assets            /img             /IMG_8901.jpg)
