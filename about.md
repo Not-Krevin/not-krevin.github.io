@@ -35,10 +35,10 @@ Everything in life is a miracle. I'm grateful to look at my life as a miracle, t
    *West Hills Community Church*
 
 
+
 **General About**
-Currently I’m studying engineering at SJSU.
+Currently I’m studying at SJSU.
 Outside of school, I like being outdoors, camping, running, biking/motorcycles, powerlifting, and music.
-I care about growing as a person, showing up well for others.
 
 
 
