@@ -23,7 +23,7 @@ author: Kevin Higgins
 ###############################################
 
 navbar-links:
-  The Gospel: "evangelism"
+  Click me!: "https://www.gotquestions.org/"
   About Me: "about"
   Prayer: "prayer"
 
@@ -51,9 +51,14 @@ navbar-links:
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "KEVINHIGGINS1333@gmail.com"
-#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  instagram: not.krevin
+  spotify: kevin.spams.memes
+  linkedin: kevin-higgins-434833300
   facebook: kevin.higgins.9085790
+  email: "KEVINHIGGINS1333@gmail.com"
+  
+
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  github: 
 #  twitter: 
 #  patreon: 
@@ -61,12 +66,9 @@ social-network-links:
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-  linkedin: kevin-higgins-434833300
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: not.krevin
-  spotify: kevin.spams.memes
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
